@@ -1,3 +1,3 @@
-# WitheredGarden
+# Withered Garden
 
-Developed with Unreal Engine 5
+A Souls-Like Student Project, Developed in Unreal Engine 5
